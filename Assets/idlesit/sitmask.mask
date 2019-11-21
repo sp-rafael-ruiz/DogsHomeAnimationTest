@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: sitmask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: mesh
+    m_Weight: 0
+  - m_Path: mesh/CHR_Puppy01
+    m_Weight: 0
+  - m_Path: skeleton
+    m_Weight: 0
+  - m_Path: skeleton/locator1
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/c_Jaw_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/c_Jaw_jnt/c_JawEnd
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/c_nose_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/c_Tongue1_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/c_Tongue1_jnt/c_Tongue2_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/c_Tongue1_jnt/c_Tongue2_jnt/c_Tongue3_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_cheek_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_EarHanging1_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_EarHanging1_jnt/lf_EarHanging2_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_EarHanging1_jnt/lf_EarHanging2_jnt/lf_EarHangingEnd
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_EarStraight1_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_EarStraight1_jnt/lf_EarStraight2_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_Eye_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_Eyebrow_Inside_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_Eyebrow_Outside_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_Lower_Eyelid_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_MouthCorner_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_SnoutControl_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/lf_Upper_Eyelid_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_cheek_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_EarHanging1_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_EarHanging1_jnt/rt_EarHanging2_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_EarHanging1_jnt/rt_EarHanging2_jnt/rt_EarHangingEnd
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_EarStraight1_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_EarStraight1_jnt/rt_EarStraight2_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_Eye_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_Eyebrow_Inside_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_Eyebrow_Outside_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_Lower_Eyelid_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_MouthCorner_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_SnoutControl_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/c_neck_jnt/c_head_jnt/rt_Upper_Eyelid_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/lf_collarbone_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/lf_collarbone_jnt/lf_arm_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/lf_collarbone_jnt/lf_arm_jnt/lf_elbow_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/lf_collarbone_jnt/lf_arm_jnt/lf_elbow_jnt/lf_hand_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/lf_collarbone_jnt/lf_arm_jnt/lf_elbow_jnt/lf_hand_jnt/lf_fingerHand_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/rt_collarbone_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/rt_collarbone_jnt/rt_arm_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/rt_collarbone_jnt/rt_arm_jnt/rt_elbow_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/rt_collarbone_jnt/rt_arm_jnt/rt_elbow_jnt/rt_hand_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_spine_jnt/c_spine1_jnt/c_spine2_jnt/c_chest_jnt/rt_collarbone_jnt/rt_arm_jnt/rt_elbow_jnt/rt_hand_jnt/rt_fingerHand_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_tail1_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_tail1_jnt/c_tail2_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_tail1_jnt/c_tail2_jnt/c_tail3_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_tail1_jnt/c_tail2_jnt/c_tail3_jnt/c_tail4_jnt
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/c_tail1_jnt/c_tail2_jnt/c_tail3_jnt/c_tail4_jnt/c_tailEnd
+    m_Weight: 0
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/lf_leg_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/lf_leg_jnt/lf_knee_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/lf_leg_jnt/lf_knee_jnt/lf_foot_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/lf_leg_jnt/lf_knee_jnt/lf_foot_jnt/lf_toes_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/lf_leg_jnt/lf_knee_jnt/lf_foot_jnt/lf_toes_jnt/lf_fingerFeet_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/rt_leg_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/rt_leg_jnt/rt_knee_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/rt_leg_jnt/rt_knee_jnt/rt_foot_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/rt_leg_jnt/rt_knee_jnt/rt_foot_jnt/rt_toes_jnt
+    m_Weight: 1
+  - m_Path: skeleton/locator1/c_root_jnt/c_hip_jnt/rt_leg_jnt/rt_knee_jnt/rt_foot_jnt/rt_toes_jnt/rt_fingerFeet_jnt
+    m_Weight: 1
